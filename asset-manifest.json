@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cafeworld.github.io/static/css/main.c6ab7f34.css",
+    "main.js": "/cafeworld.github.io/static/js/main.11275f3c.js",
+    "static/js/787.3a699bad.chunk.js": "/cafeworld.github.io/static/js/787.3a699bad.chunk.js",
+    "index.html": "/cafeworld.github.io/index.html",
+    "main.c6ab7f34.css.map": "/cafeworld.github.io/static/css/main.c6ab7f34.css.map",
+    "main.11275f3c.js.map": "/cafeworld.github.io/static/js/main.11275f3c.js.map",
+    "787.3a699bad.chunk.js.map": "/cafeworld.github.io/static/js/787.3a699bad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ab7f34.css",
+    "static/js/main.11275f3c.js"
+  ]
+}
